@@ -48,7 +48,7 @@ img{
     margin-left: 55px;
     border-width: 1px;
     border-color: #CCCCCC;
-    width:790px;
+    width:50%;
     border-style: solid;
 }
 
@@ -72,7 +72,7 @@ img{
 .welcome p{
 
     margin-left: 55px;
-    width:100vw;
+    width:100%;
     font-size: 13px;
     word-spacing: 1px;
    
