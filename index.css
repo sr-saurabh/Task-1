@@ -4,6 +4,7 @@ body{
 }
 
 .banner{
+    width:100vw;
     height: 150px;
     background-color: #3399CC;
     color: #FFFFFF;
@@ -15,6 +16,7 @@ body{
 }
 
 .navbar{
+    width:100vw;
     background-color: #333333;
     height: 33px;
     display: flex;
